@@ -13,7 +13,7 @@ Our first project in boot camp was to work with 3 other students on an analysis 
 >
 > Where we’d like to solicit your engagement is to use MTA subway data, which as I’m sure you know is available freely from the city, to help us optimize the placement of our street teams, such that we can gather the most signatures, ideally from those who will attend the gala and contribute to our cause.
 
-Our team eagerly downloaded several MTA file from the public repository of the turnstile data and set to work identifying the busiest stations, days of week and times of day.  You can see our presentation at this link:  https://mitchki.github.io/resources/MTA_traffic_Team6.pdf 
+Our team eagerly downloaded several MTA file from the public repository of the turnstile data and set to work identifying the busiest stations, days of week and times of day.  You can see our presentation at [this link:]  (https://mitchki.github.io/resources/MTA_traffic_Team6.pdf) 
 
 #### Alternative Strategy
 
